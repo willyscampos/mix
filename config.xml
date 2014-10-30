@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget id="com.example.mobiledemo" version="1.0.0" xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets">
-  <name>MobileDemo</name>
+  <name>Mix Atualidades</name>
   <description>
   </description>
   <icon src="/icons/android/icon-hdpi.png" gap:density="hdpi" gap:platform="android" />
@@ -22,7 +22,7 @@
   <gap:splash src="/icons/ios/Default-Portrait~ipad.png" width="768" height="1024" gap:platform="ios" />
   <author email="willyscampos@gmail.com">willyscampos@gmail.com</author>
   <access origin="*" />
-  <preference name="phonegap-version" value="3.0.0" />
+  <preference name="phonegap-version" value="3.6.3" />
   <gap:plugin name="org.apache.cordova.battery-status" />
   <gap:plugin name="org.apache.cordova.camera" />
   <gap:plugin name="org.apache.cordova.media-capture" />
